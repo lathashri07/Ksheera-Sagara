@@ -21,3 +21,9 @@ Ksheera-Sagara Hub is a specialized mobile application designed for dairy farmer
 - **Architecture:** MVVM (Model-View-ViewModel)
 - **Theme:** Nature-inspired Green UI for enhanced accessibility for rural users.
 - **PDF Engine:** Android Printing Framework
+
+## 🚀 Installation
+
+1. Clone the repository:
+   ```bash
+   git clone [https://github.com/YourUsername/Ksheera-Sagara.git](https://github.com/YourUsername/Ksheera-Sagara.git)
