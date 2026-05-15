@@ -22,8 +22,18 @@ Ksheera-Sagara Hub is a specialized mobile application designed for dairy farmer
 - **Theme:** Nature-inspired Green UI for enhanced accessibility for rural users.
 - **PDF Engine:** Android Printing Framework
 
-## 🚀 Installation
+## 🚀 Installation & Setup
+-**Clone & Open**
 
-1. Clone the repository:
-   ```bash
-   git clone [https://github.com/YourUsername/Ksheera-Sagara.git](https://github.com/YourUsername/Ksheera-Sagara.git)
+-**Bash**
+git clone https://github.com/YourUsername/Ksheera-Sagara.git
+Open the project folder in Android Studio.
+
+-**Firebase Setup**
+Ensure your google-services.json is placed in the app/ directory to enable the Realtime Database.
+
+-**Sync & Build**
+Click "Sync Project with Gradle Files" and wait for dependencies to install.
+
+-**Run**
+Connect an Android device or emulator (API 31+) and click the green Run button.
